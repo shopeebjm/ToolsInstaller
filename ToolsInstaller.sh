@@ -39,8 +39,8 @@ echo -e $red"|___|_| |_|___/\__\__,_|_|_|\___|_|      |_|\___/ \___/|_|___/"
 echo " "
 echo " "
 echo -e $red"-------------------------------------------------"
-echo -e $red"| $white Installer Tools Coded By Andy                $red |"
-echo -e $red"| $white Contact : Andy.Notfound@gmail.com            $red |"
+echo -e $red"| $white Installer Tools Coded By @shopeebjm               $red |"
+echo -e $red"| $white Editor File Repositories: shopeebjm©™             $red |"
 echo -e $red"-------------------------------------------------"
 echo -e $white" 01) Red Hawk"
 echo -e $white" 02) Hunner"
@@ -664,7 +664,7 @@ fi
 ## Exit option
 if [ $userChoice = 40 ]
     then
-    echo -e $green" Contact creator at Andy.Notfound@gmail.com "
+    echo -e $green" Contact creator at shopee.bjm.id@gmail.com "
     sleep 1
     echo -e $red" Use everything at your own risk!"
     sleep 1
