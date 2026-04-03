@@ -22,7 +22,9 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 # Histories
 - Ini adalah posting ulang GithubGist saya 4 tahun lalu ketika saya mulai coding di Termux. Mohon abaikan kebodohan "diri saya di masa lalu". Saat itu saya sangat antusias dengan hacking dan penetration testing.
 
-- 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/40969170/183858892-54fb518f-391e-4175-a02e-30bc2f16b0c0.png">
+</div
 
 # Tools Installer
 
