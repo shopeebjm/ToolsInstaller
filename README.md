@@ -19,6 +19,8 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 
 [![termux](https://img.shields.io/badge/termux-71%2B-yellow.svg?style=flat)](https://sfile.co/eZK8yBBtOiv)
 
+- Ini adalah posting ulang GithubGist saya 4 tahun lalu ketika saya mulai coding di Termux. Mohon abaikan kebodohan "diri saya di masa lalu". Saat itu saya sangat antusias dengan hacking dan penetration testing.
+
 # Tools Installer
 
 ```
