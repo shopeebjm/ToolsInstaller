@@ -1,35 +1,60 @@
-# Tools Installer
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=YouTube+@shoee_banjarmasin" />
+   <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=s+h+o+p+e+e+b+j+m" />
+</p>
 
-This is re-post of my <a href="https://gist.github.com/AndyNotfound/0a6a60dd6e2c8f981a1b2373cfb524d7">GithubGist</a> 4 years ago when I started coding on Termux. Please ignore my "Past self" stupidness. I was excited about hacking and penetration back then.
-<br>
+<p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://raw.githubusercontent.com/fisabiliyusri/.github/main/kotori2.png?r=82s" width="150" alt="Hayuk"/></a></p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/40969170/183858892-54fb518f-391e-4175-a02e-30bc2f16b0c0.png">
-</div>
+<h2 align="center">
 
-## Where can I run these script?
-I'm very sorry to dissapoint you, but this tools is <code>only usable on Termux</code>, you can't run this on Arch (I use Arch too btw), Fedora, Slackware, or even Gentoo without changing the script. <b>You can run this</b> if you change the package manager for example <code>pacman -S instead of apt install</code>.
-<br>
-## How to run this tools?
-<ul>
-  <li>Please make sure you have these things :
-    <ul>
-      <li>Termux <code>the latest the version is the better</code></li>
-      <li>Internet <code>obviously</code></li>
-      <li>Git, you can check it by typing <code>git --version</code></li>
-    </ul>
-   </li>
-   <li>Clone this repository by typing
+[![Powered By:kiplymacho](https://img.shields.io/badge/PoweredBy:kiplymacho-7%2B-blue.svg?style=flat)](http://linktr.ee/kiplymacho)
+
+# Syarat & Ketentuan 
+- Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error
+<h2 align="center">
+
+Unduh Aplikasi Termux Nya Dibawah Ini
+
+👇👇
+
+[![termux](https://img.shields.io/badge/termux-71%2B-yellow.svg?style=flat)](https://sfile.co/eZK8yBBtOiv)
+
 ```
 $ git clone 
 $ https://github.com/shopeebjm/ToolsInstaller
 $ cd ToolsInstaller
 $ sh ToolsInstaller.sh
 ```
-## Why this tools even exist?
-To make things easier for you, new security and penetration enthusiast or some script kiddie out there to explore more things with ease, because <b>this tools contains a lot of tools usable for just that</b>.
-<br>
+
 ## Disclaimer
-This tool is made for fun, use everything at your own risk, Okay? Everybody is permitted to edit, distribute this tools under GPL 2.0 License. <b>Some of the tools are probably outdated</b> and I'll try my best to update them, kay? 
-<br><br>
-<b>Peace out bitches!</b>
+- Jangan Di Persalahgunakan!! Saya Tidak Bertanggung Jawab Apabila Disalahgunakan Dengan Cara Untuk Berbuat Kejahatan,Tools Ini Hanya Untuk Edukasi.
+
+# Like Share Comment And Subscribe
+
+<h2 align="center">
+
+[![shopee](https://img.shields.io/badge/shopee-200%2B-yellow.svg?style=flat)](https://shopee.co.id/infinixnote40bjm)
+
+[![Youtube shopee_banjarmasin](https://img.shields.io/badge/YouTube-200%2B-yellow.svg?style=flat)](https://www.youtube.com/@shopee_banjarmasin)
+
+[![Instagram shopee_banjarmasn](https://img.shields.io/badge/Instagram-2K%2B-yellow.svg?style=flat)](https://www.instagram.com/shopee_banjarmasin)
+
+[![Twitter KipyMacho](https://img.shields.io/badge/Twitter-350%2B-yellow.svg?style=flat)](https://www.twitter.com/kiplymacho)
+  
+[![Tiktok Shopeebjm](https://img.shields.io/badge/TikTok-80%2B-yellow.svg?style=flat)](https://www.tiktok.com/@shopee.bjm)
+
+[![Facebook shopee.bjm](https://img.shields.io/badge/Facebook-199%2B-yellow.svg?style=flat)](https://www.facebook.com/shopee.bjm)
+
+[![Telegram](https://img.shields.io/badge/Telegram-77%2B-yellow.svg?style=flat)](http://t.me/shopeebjm)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-80%2B-yellow.svg?style=flat)](http://www.linkedin.com/in/kiplymacho)
+
+</p>
+<div height='45' align="center">
+<h2>Contact me: <br>
+<a href="https://github.com/shopeebjm"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='50'> </a>
+<a href="https://facebook.com/shopee.bjm"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height='50'> </a>
+
+<a href="https://paypal.me/kiplymacho"> <img src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height='50'> </a>
+</h2>
+</div>
