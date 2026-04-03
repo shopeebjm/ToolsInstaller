@@ -19,7 +19,8 @@ I'm very sorry to dissapoint you, but this tools is <code>only usable on Termux<
       <li>Git, you can check it by typing <code>git --version</code></li>
     </ul>
    </li>
-   <li>Clone this repository by typing ``` 
+   <li>Clone this repository by typing
+```
 $ git clone 
 $ https://github.com/shopeebjm/ToolsInstaller
 $ cd ToolsInstaller
