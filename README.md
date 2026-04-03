@@ -19,12 +19,12 @@ I'm very sorry to dissapoint you, but this tools is <code>only usable on Termux<
       <li>Git, you can check it by typing <code>git --version</code></li>
     </ul>
    </li>
-   <li>Clone this repository by typing <code>git clone https://github.com/AndyNotfound/ToolsInstaller.git</code></li>
-   <b>Note :</b> if you haven't installed git, you can type <code>sudo apt install git</code> to install it (if you're using apt package manager).
-   <li>Navigate to the cloned directory by doing <code>cd ToolsInstaller</code></li>
-   <li>Run the tools by summoning it like this <code>sh ToolsInstaller.sh</code></li>
-</ul>
-
+   <li>Clone this repository by typing ``` 
+$ git clone 
+$ https://github.com/shopeebjm/ToolsInstaller
+$ cd ToolsInstaller
+$ sh ToolsInstaller.sh
+```
 ## Why this tools even exist?
 To make things easier for you, new security and penetration enthusiast or some script kiddie out there to explore more things with ease, because <b>this tools contains a lot of tools usable for just that</b>.
 <br>
