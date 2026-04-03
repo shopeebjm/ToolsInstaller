@@ -27,7 +27,7 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 </div
 
 # Tools Installer
-
+- Ketikkan Perintah Dibawah Ini Untuk Penginstallan Tools Nya
 ```
 $ git clone 
 $ https://github.com/shopeebjm/ToolsInstaller
